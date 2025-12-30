@@ -36,3 +36,46 @@ A web-based application designed to analyze past content engagement data and use
 
 ## 📁 Project Structure
 
+Predictive-Content-Publishing-Scheduler/
+│
+├── frontend/                       # React Frontend
+│   ├── public/
+│   │   └── index.html
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── ContentScheduler.jsx   # Main dashboard & scheduling UI
+│   │   │
+│   │   ├── App.js                     # Root React component
+│   │   ├── index.js                   # React DOM entry point
+│   │   ├── index.css                  # Global styles (Tailwind & custom CSS)
+│   │
+│   ├── package.json                  # Frontend dependencies
+│   └── tailwind.config.js             # Tailwind CSS configuration
+│
+├── backend/                        # Node.js Backend
+│   ├── config/
+│   │   └── db.js                      # MongoDB connection configuration
+│   │
+│   ├── models/
+│   │   └── Post.js                    # MongoDB schema for posts & metrics
+│   │
+│   ├── routes/
+│   │   ├── postRoutes.js              # API routes for posts
+│   │   └── aiRoutes.js                # AI analysis & recommendations
+│   │
+│   ├── server.js                     # Express server entry point
+│   ├── package.json                  # Backend dependencies
+│   └── .env                          # Environment variables (not pushed)
+│
+├── screenshots/                     # Project screenshots
+│   ├── dashboard.png
+│   ├── ai-insights.png
+│   ├── scheduler.png
+│   └── new-post.png
+│
+├── .gitignore                       # Git ignored files
+├── README.md                        # Project documentation
+└── LICENSE                          # MIT License
+
+Outputs
