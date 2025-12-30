@@ -10,10 +10,13 @@ const connectDB = async () => {
       }
     );
 
-    console.log(`✅ MongoDB Connected: ${conn.connection.host}`);
-    console.log(`📦 Database: ${conn.connection.name}`);
+    console.log("✅ MongoDB Connected Successfully");
+    console.log("👤 Database User : jahnavi_k");
+    console.log(`🌐 Cluster Host  : ${conn.connection.host}`);
+    console.log(`📦 Database     : ${conn.connection.name}`);
   } catch (error) {
-    console.error(`❌ MongoDB Connection Error: ${error.message}`);
+    console.error("❌ MongoDB Connection Error");
+    console.error(`📛 Message      : ${error.message}`);
     process.exit(1);
   }
 };
