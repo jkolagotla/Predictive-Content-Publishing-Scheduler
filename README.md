@@ -79,3 +79,9 @@ Predictive-Content-Publishing-Scheduler/
 └── LICENSE                          # MIT License
 
 Outputs
+<img width="1238" height="806" alt="image" src="https://github.com/user-attachments/assets/b64ba9f3-e46b-442c-beaf-2117186d2e67" />
+<img width="1382" height="701" alt="image" src="https://github.com/user-attachments/assets/9009fea4-36bd-4934-9098-f278047ca7dd" />
+<img width="1363" height="738" alt="image" src="https://github.com/user-attachments/assets/caa4dfd0-edc8-4a71-8deb-1a23bed382d3" />
+<img width="1398" height="656" alt="image" src="https://github.com/user-attachments/assets/ce2e8aa2-81b3-4c0b-82fb-5108d78701c3" />
+<img width="1416" height="504" alt="image" src="https://github.com/user-attachments/assets/bc1515d8-eeb9-4cb1-8827-5278edfc26ab" />
+
