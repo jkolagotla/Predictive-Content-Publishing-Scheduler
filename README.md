@@ -79,9 +79,12 @@ Predictive-Content-Publishing-Scheduler/
 └── LICENSE                          # MIT License
 
 Outputs
-<img width="1238" height="806" alt="image" src="https://github.com/user-attachments/assets/b64ba9f3-e46b-442c-beaf-2117186d2e67" />
-<img width="1382" height="701" alt="image" src="https://github.com/user-attachments/assets/9009fea4-36bd-4934-9098-f278047ca7dd" />
-<img width="1363" height="738" alt="image" src="https://github.com/user-attachments/assets/caa4dfd0-edc8-4a71-8deb-1a23bed382d3" />
-<img width="1398" height="656" alt="image" src="https://github.com/user-attachments/assets/ce2e8aa2-81b3-4c0b-82fb-5108d78701c3" />
-<img width="1416" height="504" alt="image" src="https://github.com/user-attachments/assets/bc1515d8-eeb9-4cb1-8827-5278edfc26ab" />
+<img width="1387" height="732" alt="image" src="https://github.com/user-attachments/assets/78971542-7f7f-4821-9519-7b6ca10904e1" />
+<img width="1363" height="738" alt="image" src="https://github.com/user-attachments/assets/ff500f4f-e845-4464-9547-d973cb8284de" />
+<img width="1398" height="656" alt="image" src="https://github.com/user-attachments/assets/613e5d66-3ff4-48ec-83de-2310a5f160c5" />
+<img width="1363" height="738" alt="image" src="https://github.com/user-attachments/assets/e9bdf8e8-c489-48bd-ab69-3fabf346f9ab" />
+<img width="1382" height="701" alt="image" src="https://github.com/user-attachments/assets/94ece3f6-58a4-4e38-bf64-dbb320081e6c" />
+<img width="1238" height="806" alt="image" src="https://github.com/user-attachments/assets/4281b88c-7e56-4ea6-9ecb-effd3e8f17e8" />
+
+
 
